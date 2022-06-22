@@ -1,2 +1,5 @@
 rootProject.name = 'microservices'
+include 'client'
+include 'client-repo'
+include 'server'
 
